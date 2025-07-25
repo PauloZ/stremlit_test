@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_pdf_viewer import pdf_viewer
+# from streamlit_pdf_viewer import pdf_viewer
 
 tab1, tab2 = st.tabs(["image1", "image2"])
 
